@@ -1,0 +1,1 @@
+# opencv_ile_plaka_tespiti
